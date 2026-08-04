@@ -2,33 +2,28 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <!-- <h3 align="center">A Crazy developer & passionate Ethical Hacker</h3> -->
 
+<div align="center">
 
-<div align="center"> 
-
-![DevvSakib is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=1e90ff&center=true&width=400&height=30&lines=A+Crazy+Developer;Passionate+Ethical+Hacker)
+![Yash is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=1e90ff&center=true&width=400&height=30&lines=A+Crazy+Developer;Passionate+Ethical+Hacker)
 </div>
-
 
 ## 💫 About Me:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github.com/Yashdon999"><img align="right" width="370" src="https://github.com/Yashdon999/Yashdon999/blob/main/gif-new.gif"></a>
+<a href="https://github.com/y4sssh"><img align="right" width="370" src="https://github.com/y4sssh.png?size=460"></a>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 - 🔭 I’m currently working on **New Projects**
-
-- 🌱 I’m currently learning **New Programming Languages , How to Crack Machines**
-
+- 🌱 I’m currently learning **New Programming Languages, How to Crack Machines**
 - 👨‍💻 All of my projects are available at [https://y4sssh.github.io/Portfolio/](https://y4sssh.github.io/Portfolio/)
-
 - 📫 How to reach me **yashvyawahare300@gmail.com**
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#2857) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash_vyavahare_)
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2857) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash_vyavahare_)
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -38,9 +33,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashdon999&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashdon999&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashdon999&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=y4sssh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=y4sssh&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=y4sssh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -49,4 +44,4 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![](https://visitcount.itsvg.in/api?id=Yashdon999&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=y4sssh&icon=0&color=0)](https://visitcount.itsvg.in)
