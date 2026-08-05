@@ -1,23 +1,23 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A66C2,100:1a1a1a&height=220&section=header&text=Yash%20Vyavahare&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React+%2F+Node.js;AI%2FML+Engineer+%7C+NLP+%2B+Python;Cybersecurity+%7C+Ethical+Hacking;Linux+Enthusiast+%7C+Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF3B30,100:1a1a1a&height=220&section=header&text=Yash%20Vyavahare&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3B30&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React+%2F+Node.js;AI%2FML+Engineer+%7C+NLP+%2B+Python;Cybersecurity+%7C+Ethical+Hacking;Linux+Enthusiast+%7C+Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.Tech-Information%20Technology-0A66C2?style=for-the-badge&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/Nagpur%2C%20Maharashtra-2D6CDF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)
+![Degree](https://img.shields.io/badge/B.Tech-Information%20Technology-FF3B30?style=for-the-badge&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/Nagpur%2C%20Maharashtra-B91C1C?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-vyavahare-14b109251/)
-[![Email](https://img.shields.io/badge/Email-1E56A0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvyavahare02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-14407A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y4sssh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF3B30?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-vyavahare-14b109251/)
+[![Email](https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvyavahare02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-991B1B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y4sssh)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=y4sssh&color=0A66C2&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/y4sssh?color=1E56A0&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/y4sssh?color=2D6CDF&style=flat-square&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=y4sssh&color=FF3B30&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/y4sssh?color=DC2626&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/y4sssh?color=B91C1C&style=flat-square&label=Stars)
 
 </div>
 
@@ -57,7 +57,7 @@ I'm a **B.Tech Information Technology** student at KDK College of Engineering, N
 <!-- ===================== SOCIAL BADGES ===================== -->
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-vyavahare-14b109251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yash-vyavahare-14b109251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF3B30?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:yashvyavahare02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>&nbsp;&nbsp;
 <a href="https://github.com/y4sssh" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
@@ -68,9 +68,9 @@ I'm a **B.Tech Information Technology** student at KDK College of Engineering, N
 ### 📊 GitHub Analytics
 <!-- Streak card -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=y4sssh&theme=default&background=0A101F&stroke=1C2740&ring=0A66C2&fire=10B981&currStreakLabel=0A66C2&sideLabels=C7D2E0&currStreakNum=C7D2E0&sideNums=C7D2E0&dates=5B6B85" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=y4sssh&theme=default&background=F7F8FC&stroke=D8DEEA&ring=0A66C2&fire=059669&currStreakLabel=0A66C2&sideLabels=1E293B&currStreakNum=1E293B&sideNums=1E293B&dates=8B97AC" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=y4sssh&theme=default&background=0A101F&stroke=1C2740&ring=0A66C2&fire=10B981" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=y4sssh&theme=default&background=0A101F&stroke=1C2740&ring=FF3B30&fire=10B981&currStreakLabel=FF3B30&sideLabels=C7D2E0&currStreakNum=C7D2E0&sideNums=C7D2E0&dates=5B6B85" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=y4sssh&theme=default&background=F7F8FC&stroke=D8DEEA&ring=FF3B30&fire=059669&currStreakLabel=FF3B30&sideLabels=1E293B&currStreakNum=1E293B&sideNums=1E293B&dates=8B97AC" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=y4sssh&theme=default&background=0A101F&stroke=1C2740&ring=FF3B30&fire=10B981" alt="GitHub Streak" />
 </picture>
 
 ---
@@ -79,7 +79,7 @@ I'm a **B.Tech Information Technology** student at KDK College of Engineering, N
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=y4sssh&theme=react-dark&bg_color=0D1117&color=0A66C2&line=1E56A0&point=2D6CDF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=y4sssh&theme=react-dark&bg_color=0D1117&color=FF3B30&line=DC2626&point=B91C1C&hide_border=true" width="100%"/>
 
 </div>
 
@@ -218,9 +218,9 @@ An AI-powered browser extension focused on browser security.
 ### 🏆 GitHub Trophies
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=y4sssh&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=0A66C2&text.color=C7D2E0&icon.color=10B981&background=0A101F" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=y4sssh&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=0A66C2&text.color=1E293B&icon.color=059669&background=F7F8FC" />
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=y4sssh&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=0A66C2&text.color=C7D2E0&icon.color=10B981&background=0A101F" alt="GitHub Trophies" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=y4sssh&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=FF3B30&text.color=C7D2E0&icon.color=10B981&background=0A101F" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=y4sssh&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=FF3B30&text.color=1E293B&icon.color=059669&background=F7F8FC" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=y4sssh&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=FF3B30&text.color=C7D2E0&icon.color=10B981&background=0A101F" alt="GitHub Trophies" />
 </picture>
 
 ---
@@ -234,9 +234,9 @@ An AI-powered browser extension focused on browser security.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-1E56A0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvyavahare02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-vyavahare-14b109251/)
-[![GitHub](https://img.shields.io/badge/GitHub-14407A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y4sssh)
+[![Gmail](https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvyavahare02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF3B30?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-vyavahare-14b109251/)
+[![GitHub](https://img.shields.io/badge/GitHub-991B1B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y4sssh)
 
 </div>
 
