@@ -95,16 +95,6 @@ I'm a **B.Tech Information Technology** student at KDK College of Engineering, N
 
 ---
 
-### 🎓 Education
-
-| Degree | Institute | Year |
-|---|---|---|
-| 🎓 B.Tech Information Technology | KDK College of Engineering, Nagpur | 2024 - 2027 |
-| 💻 Diploma in Computer Science Engineering | Siddhivinayak Technical Campus, Shegaon | Completed |
-| 🏫 SSC | Lions Dnyanpeeth, Khamgaon | Completed |
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
