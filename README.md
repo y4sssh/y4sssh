@@ -202,19 +202,6 @@ An AI-powered browser extension focused on browser security.
 
 <br/>
 
----
-
-### 🎯 Current Focus
-
-- 🔭 Actively seeking **SDE / Full-Stack Engineer** roles
-- 🎓 B.Tech IT student (2024–2027), KDK College of Engineering, Nagpur
-- 🤖 Learning **Artificial Intelligence, Machine Learning**, and **Cyber Security**
-- 🐧 Exploring **Linux**, **Ethical Hacking**, and **Web Security**
-- ☁️ Exploring cloud deployment with **Docker**, **Kubernetes**, and **DevOps**
-- 🦀 Picking up **Rust Programming** and **System Design**
-
----
-
 ### 🏆 GitHub Trophies
 
 <picture>
