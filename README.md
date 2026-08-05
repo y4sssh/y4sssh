@@ -38,22 +38,6 @@ I'm a **B.Tech Information Technology** student at KDK College of Engineering, N
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🥇 1st Rank | Project Competition |
-| 🥈 2nd Rank | National Level Technical Event |
-| 🚀 Open Source Contributor | Active contributor to open-source projects |
-| 💻 Freelance Developer | Delivered real-world software solutions |
-| 🐧 Linux Enthusiast | Exploring Linux distributions & tooling |
-
-</div>
-
----
-
 <!-- ===================== SOCIAL BADGES ===================== -->
 ## 🌐 Socials:
 <p align="left">
