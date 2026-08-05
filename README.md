@@ -1,47 +1,210 @@
-# y4sssh-README
-<h1 align="center">Hi 👋, I'm Yash</h1>
-<!-- <h3 align="center">A Crazy developer & passionate Ethical Hacker</h3> -->
+---
 
-<div align="center">
+# 🎓 Education
 
-![Yash is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=1e90ff&center=true&width=400&height=30&lines=A+Crazy+Developer;Passionate+Ethical+Hacker)
-</div>
+| Degree | Institute | Year |
+|---------|-----------|------|
+| 🎓 B.Tech Information Technology | KDK College of Engineering, Nagpur | 2024 - 2027 |
+| 💻 Diploma in Computer Science Engineering | Siddhivinayak Technical Campus, Shegaon | Completed |
+| 🏫 SSC | Lions Dnyanpeeth, Khamgaon | Completed |
 
-## 💫 About Me:
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<a href="https://github.com/y4sssh"><img align="right" width="370" src="https://github.com/y4sssh.png?size=460"></a>
+# 💼 Experience
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+### 💻 Software Development Intern
+**CrescentWeb**
+📅 Dec 2024 – Feb 2025
 
-- 🔭 I’m currently working on **New Projects**
-- 🌱 I’m currently learning **New Programming Languages, How to Crack Machines**
-- 👨‍💻 All of my projects are available at [https://y4sssh.github.io/Portfolio/](https://y4sssh.github.io/Portfolio/)
-- 📫 How to reach me **yashvyawahare300@gmail.com**
-<br><br>
+- Developed responsive web applications.
+- Worked with modern web technologies.
+- Improved frontend development skills.
+- Collaborated on real-world software projects.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2857) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash_vyavahare_)
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 💻 Software Development Intern
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF)
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Microspectra Software Technologies Pvt. Ltd.**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=y4sssh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=y4sssh&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=y4sssh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📅 Jun 2023 – Jul 2023
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- Internship Training Programme
+- Worked on software development concepts.
+- Learned industry development workflow.
+- Improved programming and debugging skills.
 
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-[![](https://visitcount.itsvg.in/api?id=y4sssh&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🚀 Major Projects
+
+## 📄 Resume Generator
+
+Open Source Resume Builder developed using ReactJS.
+
+### Technologies
+
+- React
+- HTML
+- CSS
+- JavaScript
+
+🔗 Live Demo
+
+https://resume-generator-xi.vercel.app/
+
+---
+
+## 📰 Fake News Detection Assistant
+
+Machine Learning project that detects whether news is **REAL** or **FAKE** using NLP techniques.
+
+### Features
+
+✔ Fake News Prediction
+
+✔ Machine Learning
+
+✔ NLP
+
+✔ React Frontend
+
+✔ Python Backend
+
+Repository
+
+https://github.com/y4sssh/Fake-News-Detection-Assistant
+
+---
+
+## 🛡 AI Trust Digital Score Browser Extension
+
+AI-powered browser extension focused on browser security.
+
+### Features
+
+✔ URL Analysis
+
+✔ Trust Score
+
+✔ Browser Protection
+
+✔ Password Safety
+
+✔ Secure Browsing
+
+✔ AI Detection
+
+---
+
+# 🏆 Achievements
+
+🥇 1st Rank – Project Competition
+
+🥈 2nd Rank – National Level Technical Event
+
+🚀 Open Source Contributor
+
+💻 Freelance Developer
+
+🐧 Linux Enthusiast
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Cyber Security
+- Ethical Hacking
+- Cloud Computing
+- DevOps
+- Docker
+- Kubernetes
+- System Design
+- Rust Programming
+
+---
+
+# 🎯 Career Goal
+
+I am passionate about developing secure, scalable, and intelligent software solutions. My goal is to become a Full Stack Software Engineer and Cybersecurity Professional while contributing to impactful open-source projects and building AI-powered applications that solve real-world problems.
+
+---
+
+# 📚 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Cyber Security
+- Linux
+- Full Stack Development
+- Cloud Computing
+- Open Source
+- Ethical Hacking
+- Web Security
+- Software Architecture
+
+---
+
+# ❤️ Hobbies
+
+🏋 Gym
+
+✈ Traveling
+
+🐧 Exploring Linux
+
+📖 Learning New Technologies
+
+☕ Building Side Projects
+
+---
+
+# 💬 Favorite Quote
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+# ⚡ Fun Facts
+
+🐧 I enjoy exploring Linux distributions.
+
+💻 I love contributing to Open Source.
+
+🚀 I enjoy building real-world software projects.
+
+🤖 AI and Cyber Security are my favorite domains.
+
+🌍 Always excited to learn new technologies.
+
+---
+
+# 📫 Contact Me
+
+📧 Email
+
+**yashvyavahare02@gmail.com**
+
+📍 Nagpur, Maharashtra, India
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/yash-vyavahare-14b109251/
+
+🐙 GitHub
+
+https://github.com/y4sssh
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=y4sssh&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
+</h3>
