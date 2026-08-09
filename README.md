@@ -40,15 +40,6 @@
 
 ---
 
-<!-- ===================== SOCIAL BADGES ===================== -->
-## 🌐 Socials:
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-vyavahare-14b109251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF3B30?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:yashvyavahare02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>&nbsp;&nbsp;
-<a href="https://github.com/y4sssh" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
----
 
 ### 📈 Contribution Activity
 
