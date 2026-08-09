@@ -25,15 +25,18 @@
 
 ---
 
-### 🧠 About Me
+<h3 align="center"><code>y4sssh@github ~ $ whoami</code></h3>
 
-I'm a **B.Tech Information Technology** student at KDK College of Engineering, Nagpur. I build full-stack applications end-to-end, explore AI/ML, and focus heavily on secure, scalable software. I'm actively looking for **SDE / Full-Stack Engineer** roles.
+<div align="center">
 
-- 💻 Comfortable across the stack with **React, JavaScript, HTML, CSS**, and building with **Python** for ML/NLP
-- 🔌 Strong interest in **Cyber Security**, **Ethical Hacking**, and **Web Security**
-- 🐧 Linux enthusiast and active **Open Source contributor**
-- 🌱 Currently strengthening **AI, ML, Cloud Computing, DevOps**, and exploring **Docker, Kubernetes**, and **Rust**
-- 📫 Reach me at **yashvyavahare02@gmail.com**
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="420" alt="ASCII Portrait"/></td>
+    <td valign="top"><img src="./info-card.svg" width="440" alt="Info Card"/></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
