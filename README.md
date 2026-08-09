@@ -128,14 +128,6 @@ I'm a **B.Tech Information Technology** student at KDK College of Engineering, N
 
 <br/>
 
-### 🏆 GitHub Trophies
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=y4sssh&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=FF3B30&text.color=C7D2E0&icon.color=10B981&background=0A101F" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=y4sssh&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=FF3B30&text.color=1E293B&icon.color=059669&background=F7F8FC" />
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=y4sssh&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title.color=FF3B30&text.color=C7D2E0&icon.color=10B981&background=0A101F" alt="GitHub Trophies" />
-</picture>
-
 ---
 
 ### ✍️ Motivational Dev Quote
