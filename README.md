@@ -51,7 +51,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution's
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/y4sssh/y4sssh/output/github-contribution-grid-snake.svg" />
