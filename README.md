@@ -121,29 +121,7 @@ An open-source resume builder that lets you create a professional resume in minu
 <summary><b>📰 Fake News Detection Assistant</b></summary>
 <br/>
 
-A Machine Learning project that detects whether news is **REAL** or **FAKE** using NLP techniques.
-
-| Category | Details |
-|---|---|
-| **Stack** | React, Python, NLP |
-| **Features** | Fake news prediction, ML, NLP |
-| **Backend** | Python |
-| **Repository** | [View Repo](https://github.com/y4sssh/Fake-News-Detection-Assistant) |
-
-</details>
-
-<details>
-<summary><b>🛡 AI Trust Digital Score Browser Extension</b></summary>
-<br/>
-
-An AI-powered browser extension focused on browser security.
-
-| Category | Details |
-|---|---|
-| **Features** | URL analysis, trust score, browser protection, password safety, secure browsing, AI detection |
-| **Impact** | Safer, more secure browsing experience |
-
-</details>
+A Machine Learning project that detects whether news is **REAL** or **FAKE** using NLP techniques
 
 ---
 
