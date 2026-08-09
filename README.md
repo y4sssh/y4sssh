@@ -50,17 +50,6 @@
 
 ---
 
-<!-- ===================== STATS ===================== -->
-### 📊 GitHub Analytics
-<!-- Streak card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-dun.vercel.app?user=y4sssh&theme=default&background=0A101F&stroke=1C2740&ring=FF3B30&fire=10B981&currStreakLabel=FF3B30&sideLabels=C7D2E0&currStreakNum=C7D2E0&sideNums=C7D2E0&dates=5B6B85" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-dun.vercel.app?user=y4sssh&theme=default&background=F7F8FC&stroke=D8DEEA&ring=FF3B30&fire=059669&currStreakLabel=FF3B30&sideLabels=1E293B&currStreakNum=1E293B&sideNums=1E293B&dates=8B97AC" />
-  <img width="100%" src="https://github-readme-streak-stats-dun.vercel.app?user=y4sssh&theme=default&background=0A101F&stroke=1C2740&ring=FF3B30&fire=10B981" alt="GitHub Streak" />
-</picture>
-
----
-
 ### 📈 Contribution Activity
 
 <div align="center">
