@@ -73,21 +73,23 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-**Languages**
+<img src="./header-languages.svg" />
 <br/>
-<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=js,python,java,php,cpp,c,rust" />
 <br/><br/>
-**Frontend**
+<img src="./header-frontend.svg" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,html,css" />
 <br/><br/>
-**Backend & Databases**
+<img src="./header-backend.svg" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb,aws" />
+<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e" />
 <br/><br/>
-**Cloud, DevOps & Tooling**
+<img src="./header-devops.svg" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode,vim,githubactions,visualstudio,wordpress,kali,ubuntu" />
+<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 ---
