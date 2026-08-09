@@ -23,7 +23,9 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+</p>
 <br><br>
 
 <h3 align="center"><code>y4sssh@github ~ $ whoami</code></h3>
