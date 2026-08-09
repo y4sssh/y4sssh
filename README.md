@@ -30,7 +30,6 @@
 I'm a **B.Tech Information Technology** student at KDK College of Engineering, Nagpur. I build full-stack applications end-to-end, explore AI/ML, and focus heavily on secure, scalable software. I'm actively looking for **SDE / Full-Stack Engineer** roles.
 
 - 💻 Comfortable across the stack with **React, JavaScript, HTML, CSS**, and building with **Python** for ML/NLP
-- 🛠️ Recent projects include an open-source resume generator, a fake news detection assistant with NLP, and an AI-powered browser security extension
 - 🔌 Strong interest in **Cyber Security**, **Ethical Hacking**, and **Web Security**
 - 🐧 Linux enthusiast and active **Open Source contributor**
 - 🌱 Currently strengthening **AI, ML, Cloud Computing, DevOps**, and exploring **Docker, Kubernetes**, and **Rust**
