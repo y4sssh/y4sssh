@@ -100,31 +100,6 @@ I'm a **B.Tech Information Technology** student at KDK College of Engineering, N
 
 ---
 
-### 🚀 Featured Projects
-
-<details>
-<summary><b>📄 Resume Generator</b></summary>
-<br/>
-
-An open-source resume builder that lets you create a professional resume in minutes.
-
-| Category | Details |
-|---|---|
-| **Stack** | React, HTML, CSS, JavaScript |
-| **Type** | Open Source |
-| **Impact** | Simple, fast resume creation |
-| **Live Demo** | [resume-generator-xi.vercel.app](https://resume-generator-xi.vercel.app/) |
-
-</details>
-
-<details>
-<summary><b>📰 Fake News Detection Assistant</b></summary>
-<br/>
-
-A Machine Learning project that detects whether news is **REAL** or **FAKE** using NLP techniques
-
----
-
 ### 💼 Experience
 
 **Software Development Intern**
