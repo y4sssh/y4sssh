@@ -46,15 +46,6 @@
 </p>
 <br><br>
 
-
-### Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=y4sssh&theme=react-dark&bg_color=0D1117&color=FF3B30&line=DC2626&point=B91C1C&hide_border=true" width="100%"/>
-
-</div>
-
 ###  Contribution's
 
 <picture>
