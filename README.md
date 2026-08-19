@@ -133,6 +133,14 @@
 
 </div>
 
+<div align="center">
+
+*"Code. Learn. Build. Repeat."*
+ ### ⭐ Thank You! ⭐
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
 
 
 ---
