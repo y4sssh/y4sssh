@@ -4,8 +4,7 @@
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.Tech-Information%20Technology-FF3B30?style=for-the-badge&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/Nagpur%2C%20Maharashtra-B91C1C?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)
+
 
 <br/>
 
