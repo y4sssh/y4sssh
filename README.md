@@ -9,9 +9,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF3B30?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-vyavahare-14b109251/)
-[![Email](https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvyavahare02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-991B1B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y4sssh)
+
 
 <br/>
 
