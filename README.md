@@ -15,9 +15,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=y4sssh&color=FF3B30&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/y4sssh?color=DC2626&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/y4sssh?color=B91C1C&style=flat-square&label=Stars)
+
 
 </div>
 
